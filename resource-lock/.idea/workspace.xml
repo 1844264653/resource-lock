@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06284430-f270-4ff3-b577-b226b556c88d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resource-lock/command_line.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4720">
+              <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resource-lock/controller.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="1155" column="12" selection-start-line="1155" selection-start-column="12" selection-end-line="1155" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#1037#1055#0" />
+                <element signature="e#1125#1268#0" />
+                <element signature="e#1614#3285#0" />
+                <element signature="e#1697#3215#0" />
+                <element signature="e#1861#3171#0" />
+                <element signature="e#1956#2146#0" />
+                <element signature="e#1968#2086#0" />
+                <element signature="e#2189#3171#0" />
+                <element signature="e#2316#2898#0" />
+                <element signature="e#2501#2898#0" />
+                <element signature="e#2556#2747#0" />
+                <element signature="e#2568#2669#0" />
+                <element signature="e#2814#2898#0" />
+                <element signature="e#2949#3171#0" />
+                <element signature="e#3926#4216#1" />
+                <element signature="e#4530#4885#1" />
+                <element signature="e#5048#8535#0" />
+                <element signature="e#5709#6223#0" />
+                <element signature="e#5771#6007#0" />
+                <element signature="e#6347#6956#0" />
+                <element signature="e#6595#6740#0" />
+                <element signature="e#7167#7369#0" />
+                <element signature="e#7424#7510#0" />
+                <element signature="e#7589#8052#0" />
+                <element signature="e#7747#7874#0" />
+                <element signature="e#7764#7862#0" />
+                <element signature="e#45737#47605#0" />
+                <element signature="e#45915#46122#0" />
+                <element signature="e#46178#46335#0" />
+                <element signature="e#46500#46578#0" />
+                <element signature="e#46613#46781#0" />
+                <element signature="e#46652#46759#0" />
+                <element signature="e#47360#47605#0" />
+                <element signature="e#47523#47605#0" />
+                <element signature="e#47921#52929#0" />
+                <element signature="e#47921#48838#1" />
+                <element signature="e#48900#48968#0" />
+                <element signature="e#49094#49266#0" />
+                <element signature="e#49589#50418#0" />
+                <element signature="e#49762#49842#0" />
+                <element signature="e#49906#50418#0" />
+                <element signature="e#49970#50418#0" />
+                <element signature="e#50543#50621#0" />
+                <element signature="e#50867#51391#0" />
+                <element signature="e#50910#51313#0" />
+                <element signature="e#50959#51136#0" />
+                <element signature="e#51179#51313#0" />
+                <element signature="e#51419#52929#0" />
+                <element signature="e#51462#52183#0" />
+                <element signature="e#51666#52183#0" />
+                <element signature="e#51719#51904#0" />
+                <element signature="e#51955#52183#0" />
+                <element signature="e#52030#52124#0" />
+                <element signature="e#52353#52632#0" />
+                <element signature="e#53069#54049#0" />
+                <element signature="e#53069#53417#1" />
+                <element signature="e#53581#53954#0" />
+                <element signature="e#53660#53868#0" />
+                <element signature="e#54148#55361#0" />
+                <element signature="e#54148#54459#1" />
+                <element signature="e#54481#54545#0" />
+                <element signature="e#54611#55341#0" />
+                <element signature="e#54632#54695#0" />
+                <element signature="e#54749#55245#0" />
+                <element signature="e#54800#55139#0" />
+                <element signature="e#55182#55245#0" />
+                <element signature="e#55282#55341#0" />
+                <element signature="e#55448#56757#0" />
+                <element signature="e#55448#55640#1" />
+                <element signature="e#55721#55989#0" />
+                <element signature="e#55794#55989#0" />
+                <element signature="e#56098#56757#0" />
+                <element signature="e#56195#56465#0" />
+                <element signature="e#56295#56417#0" />
+                <element signature="e#56539#56757#0" />
+                <element signature="e#56556#56674#0" />
+                <element signature="e#56877#56943#0" />
+                <element signature="e#57018#57416#0" />
+                <element signature="e#57164#57316#0" />
+                <element signature="e#57490#57735#0" />
+                <element signature="e#57816#58041#0" />
+                <element signature="e#58097#58289#0" />
+                <element signature="e#58192#58262#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resource-lock/exceptions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-650" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resource-lock/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-232">
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resource-lock/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>10.134.432.100</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/resource-lock/controller.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1696" />
+    <option name="height" value="1026" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="resource-lock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="resource-lock" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="resource-lock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="resource-lock" type="462c0819:PsiDirectoryNode" />
+              <item name="resource-lock" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../runner" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06284430-f270-4ff3-b577-b226b556c88d" name="Default Changelist" comment="" />
+      <created>1573909855682</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573909855682</updated>
+      <workItem from="1573909856842" duration="1166000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1166000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="aiXcoder" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/resource-lock/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource-lock/command_line.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4720">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource-lock/controller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="1155" column="12" selection-start-line="1155" selection-start-column="12" selection-end-line="1155" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#1037#1055#0" />
+            <element signature="e#1125#1268#0" />
+            <element signature="e#1614#3285#0" />
+            <element signature="e#1697#3215#0" />
+            <element signature="e#1861#3171#0" />
+            <element signature="e#1956#2146#0" />
+            <element signature="e#1968#2086#0" />
+            <element signature="e#2189#3171#0" />
+            <element signature="e#2316#2898#0" />
+            <element signature="e#2501#2898#0" />
+            <element signature="e#2556#2747#0" />
+            <element signature="e#2568#2669#0" />
+            <element signature="e#2814#2898#0" />
+            <element signature="e#2949#3171#0" />
+            <element signature="e#3926#4216#1" />
+            <element signature="e#4530#4885#1" />
+            <element signature="e#5048#8535#0" />
+            <element signature="e#5709#6223#0" />
+            <element signature="e#5771#6007#0" />
+            <element signature="e#6347#6956#0" />
+            <element signature="e#6595#6740#0" />
+            <element signature="e#7167#7369#0" />
+            <element signature="e#7424#7510#0" />
+            <element signature="e#7589#8052#0" />
+            <element signature="e#7747#7874#0" />
+            <element signature="e#7764#7862#0" />
+            <element signature="e#45737#47605#0" />
+            <element signature="e#45915#46122#0" />
+            <element signature="e#46178#46335#0" />
+            <element signature="e#46500#46578#0" />
+            <element signature="e#46613#46781#0" />
+            <element signature="e#46652#46759#0" />
+            <element signature="e#47360#47605#0" />
+            <element signature="e#47523#47605#0" />
+            <element signature="e#47921#52929#0" />
+            <element signature="e#47921#48838#1" />
+            <element signature="e#48900#48968#0" />
+            <element signature="e#49094#49266#0" />
+            <element signature="e#49589#50418#0" />
+            <element signature="e#49762#49842#0" />
+            <element signature="e#49906#50418#0" />
+            <element signature="e#49970#50418#0" />
+            <element signature="e#50543#50621#0" />
+            <element signature="e#50867#51391#0" />
+            <element signature="e#50910#51313#0" />
+            <element signature="e#50959#51136#0" />
+            <element signature="e#51179#51313#0" />
+            <element signature="e#51419#52929#0" />
+            <element signature="e#51462#52183#0" />
+            <element signature="e#51666#52183#0" />
+            <element signature="e#51719#51904#0" />
+            <element signature="e#51955#52183#0" />
+            <element signature="e#52030#52124#0" />
+            <element signature="e#52353#52632#0" />
+            <element signature="e#53069#54049#0" />
+            <element signature="e#53069#53417#1" />
+            <element signature="e#53581#53954#0" />
+            <element signature="e#53660#53868#0" />
+            <element signature="e#54148#55361#0" />
+            <element signature="e#54148#54459#1" />
+            <element signature="e#54481#54545#0" />
+            <element signature="e#54611#55341#0" />
+            <element signature="e#54632#54695#0" />
+            <element signature="e#54749#55245#0" />
+            <element signature="e#54800#55139#0" />
+            <element signature="e#55182#55245#0" />
+            <element signature="e#55282#55341#0" />
+            <element signature="e#55448#56757#0" />
+            <element signature="e#55448#55640#1" />
+            <element signature="e#55721#55989#0" />
+            <element signature="e#55794#55989#0" />
+            <element signature="e#56098#56757#0" />
+            <element signature="e#56195#56465#0" />
+            <element signature="e#56295#56417#0" />
+            <element signature="e#56539#56757#0" />
+            <element signature="e#56556#56674#0" />
+            <element signature="e#56877#56943#0" />
+            <element signature="e#57018#57416#0" />
+            <element signature="e#57164#57316#0" />
+            <element signature="e#57490#57735#0" />
+            <element signature="e#57816#58041#0" />
+            <element signature="e#58097#58289#0" />
+            <element signature="e#58192#58262#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource-lock/exceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-650" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource-lock/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-232">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
